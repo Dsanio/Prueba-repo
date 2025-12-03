@@ -1,3 +1,3 @@
-# Prueba de GIT
+# WEATHER APP
 
-Usando el video de "freeCodeCamp.org" sobre "Git and Github for Beginners - Crash Course".
+Proyecto que hice siguiendo el "tutorial https://realpython.com/build-a-python-weather-app-cli/". 
